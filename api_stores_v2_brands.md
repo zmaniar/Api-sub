@@ -223,4 +223,4 @@ Deletes all brands belonging to a product.
 *   [OAuth](#delete-all-brands-oauth)
 >`DELETE /stores/{store_hash}/v2/brands`</div>
 *   [Basic Auth](#delete-all-brands-basic)
-">`DELETE /api/v2/brands`</div>
+>`DELETE /api/v2/brands`</div>
